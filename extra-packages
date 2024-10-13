@@ -19,7 +19,7 @@ make
 micro
 ncdu
 ncurses
-neofetch
+fastfetch
 neovim
 npm
 plocate
